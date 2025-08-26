@@ -41,8 +41,8 @@ function WeatherInfo() {
       <div className="text-center text-2xl font-bold">{weather.condition}</div>
 
       <div className="flex items-center justify-center space-x-4">
-        <div className="text-8xl">{weather.icon}</div>
-        <div className="text-6xl font-bold">{weather.temperature}°C</div>
+        <div className="text-5xl">{weather.icon}</div>
+        <div className="text-4xl font-bold">{weather.temperature}°C</div>
       </div>
     </div>
   )
