@@ -1,8 +1,7 @@
 # ☀️ Morning Dashboard
 🚀 **Live Demo**: [https://morning-dashboard-ivgxfyszu-joel-santanas-projects.vercel.app/](https://morning-dashboard-ivgxfyszu-joel-santanas-projects.vercel.app/)
 
-<img width="1715" height="889" alt="image" src="https://github.com/user-attachments/assets/b83e2898-c5af-40e5-993c-e75e0f64d56f" />
-
+<img width="1717" height="885" alt="image" src="https://github.com/user-attachments/assets/7126f31d-e3fb-46e7-b220-f26f18073553" />
 
 A minimalist and elegant morning dashboard built with **Next.js 15**, **React**, and **Tailwind CSS**, featuring:
 
