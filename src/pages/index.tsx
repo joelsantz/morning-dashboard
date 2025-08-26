@@ -8,7 +8,7 @@ export default function Home() {
         <title>Morning Dashboard</title>
         <meta name="description" content="Your personalized dashboard" />
       </Head>
-      <main className="min-h-screen flex items-center justify-center bg-gradient-to-b from-black via-black to-[#0d0d2b]">
+      <main className="min-h-screen flex items-center justify-center bg-gradient-to-b from-black via-black to-[#0d0d2b] py-24">
         <Dashboard />
       </main>
     </>
