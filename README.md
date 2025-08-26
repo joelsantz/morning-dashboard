@@ -2,11 +2,11 @@
 🚀 **Live Demo**: [https://morning-dashboard-seven.vercel.app/](https://morning-dashboard-seven.vercel.app/)
 <img width="1717" height="885" alt="image" src="https://github.com/user-attachments/assets/7126f31d-e3fb-46e7-b220-f26f18073553" />
 
-A minimalist and elegant morning dashboard built with **Next.js 15**, **React**, and **Tailwind CSS**, featuring:
+A minimalist morning dashboard built with **Next.js 15**, **React**, and **Tailwind CSS**, featuring:
 
 - Dynamic weather based on user location
 - Inspirational quote of the day
-- Beautiful dark theme with animated gradients
+- Dark theme with dynamic gradients based on user's weather
 - Fully responsive UI with clean glassmorphism design
 
 ## 🚀 Technologies Used
